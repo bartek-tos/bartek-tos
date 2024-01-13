@@ -3,4 +3,4 @@
   <img src="https://media.giphy.com/media/wayIsQY5itxRe/giphy.gif" alt="corgi szef">
 </div>
 
-### MOJA STRONA TO [MOJA STRONA](bartek-tos.github.io) 
+### MOJA STRONA TO [MOJA STRONA](https://bartek-tos.github.io) 
